@@ -1,0 +1,26 @@
+{
+  "name": "SocialCralwer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib/crawler/index.js",
+  "scripts": {},
+  "bin": {
+    "crawler": "./bin/crawler.js"
+  },
+  "repository": {},
+  "author": "Volox <voloxxx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@volox/cli-argument-parser": "0.x",
+    "@volox/simple-logger": "0.x",
+    "@volox/social-post-wrapper": "0.x",
+    "bluebird": "^2.9.26",
+    "chalk": "1.x",
+    "co": "4.x",
+    "lodash": "3.x",
+    "moment": "^2.10.3",
+    "monk": "1.x",
+    "twit": "1.x"
+  },
+  "devDependencies": {}
+}
