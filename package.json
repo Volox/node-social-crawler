@@ -14,12 +14,14 @@
     "@volox/cli-argument-parser": "0.x",
     "@volox/simple-logger": "0.x",
     "@volox/social-post-wrapper": "0.x",
+    "JSONStream": "^1.0.4",
     "bluebird": "^2.9.26",
     "chalk": "1.x",
     "co": "4.x",
     "lodash": "3.x",
     "moment": "^2.10.3",
     "monk": "1.x",
+    "stringify-stream": "^1.0.2",
     "twit": "1.x"
   },
   "devDependencies": {}
