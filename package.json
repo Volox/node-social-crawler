@@ -19,7 +19,7 @@
     "instagram-node": "0.5.x",
     "lodash": "3.x",
     "moment": "2.x",
-    "twit": "1.x"
+    "twit": "2.x"
   },
   "devDependencies": {}
 }
