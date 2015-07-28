@@ -1,6 +1,6 @@
 {
   "name": "@volox/social-crawler",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Social crawler",
   "main": "./lib/crawler/manager.js",
   "scripts": {},
